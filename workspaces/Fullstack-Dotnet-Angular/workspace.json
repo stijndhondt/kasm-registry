@@ -2,7 +2,7 @@
     "friendly_name": "kasm ubuntu dev node and dotnet",
     "image_src": "bg.jpg",
     "description": "A kasm ubuntu dekstop with jetbrains rider, vscode, node 20 lts, volta and vscode installed",
-    "name": "stijndhondt/kasm-ubuntu-dev",
+    "name": "stijndhondt/kasm-ubuntu-dev:1.15.0",
     "cores": 2,
     "memory": 2768,
     "gpu_count": 0,
