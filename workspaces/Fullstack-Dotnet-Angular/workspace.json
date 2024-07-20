@@ -12,7 +12,6 @@
   "categories": ["Development"],
   "require_gpu": false,
   "enabled": true,
-  "image_type": "Container",
   "architecture": ["amd64"],
   "compatibility": ["1.15.x"]
 }
