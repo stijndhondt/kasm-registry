@@ -1,23 +1,18 @@
 {
-    "friendly_name": "kasm ubuntu dev node and dotnet",
-    "image_src": "bg.jpg",
-    "description": "A kasm ubuntu dekstop with jetbrains rider, vscode, node 20 lts, volta and vscode installed",
-    "name": "stijndhondt/kasm-ubuntu-dev:1.15.0",
-    "cores": 2,
-    "memory": 2768,
-    "gpu_count": 0,
-    "cpu_allocation_method": "Inherit",
-    "docker_registry": "https://index.docker.io/v1/",
-    "categories": [
-      "Development"
-    ],
-    "require_gpu": false,
-    "enabled": true,
-    "image_type": "Container",
-    "architecture": [
-      "amd64"
-    ],
-    "compatibility": [
-    "1.15.x"
-    ]
-  }
+  "description": "A kasm ubuntu dekstop with jetbrains rider, vscode, node 20 lts, volta and vscode installed",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "bg.jpg",
+  "name": "stijndhondt/kasm-ubuntu-dev:1.15.0",
+  "friendly_name": "kasm ubuntu dev node and dotnet",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+
+  "categories": ["Development"],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": ["amd64"],
+  "compatibility": ["1.15.x"]
+}
