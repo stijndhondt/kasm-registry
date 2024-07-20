@@ -1,6 +1,6 @@
 {
   "friendly_name": "ubuntu jammy Base",
-  "image_src": "core.jpg",
+  "image_src": "Core.jpg",
   "description": "Base ubunut jammy image ",
   "name": "stijndhondt/kasm-ubuntu-core:1.15.3",
   "cores": 2,
