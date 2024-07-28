@@ -2,7 +2,7 @@
   "friendly_name": "ubuntu jammy Base",
   "image_src": "Core.jpg",
   "description": "Base ubunut jammy image ",
-  "name": "stijndhondt/kasm-ubuntu-core:1.15.3",
+  "name": "stijndhondt/kasm-ubuntu-core:1.15.5",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
