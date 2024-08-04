@@ -1,5 +1,5 @@
 {
-  "friendly_name": "COre 1.15.5",
+  "friendly_name": "Core 1.15.5",
   "image_src": "Core.jpg",
   "description": "Base ubunut jammy image ",
   "name": "stijndhondt/kasm-ubuntu-core:1.15.5",
