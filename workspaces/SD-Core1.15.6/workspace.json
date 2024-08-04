@@ -1,0 +1,21 @@
+{
+  "friendly_name": "Core 1.15.6",
+  "image_src": "Core.jpg",
+  "description": "Base ubunut jammy image ",
+  "name": "stijndhondt/kasm-ubuntu-core:1.15.6",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Desktop",
+    "Development"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": ["1.15.x"]
+}
