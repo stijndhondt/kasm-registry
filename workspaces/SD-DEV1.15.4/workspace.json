@@ -1,0 +1,17 @@
+{
+  "description": "A kasm ubuntu dekstop with jetbrains rider, vscode, node 20 lts, volta and vscode installed",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "bg.jpg",
+  "name": "stijndhondt/kasm-ubuntu-dev:1.15.4",
+  "friendly_name": "Angular_Dotnet 1.15.4",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+
+  "categories": ["Development"],
+  "require_gpu": false,
+  "enabled": true,
+  "architecture": ["amd64"],
+  "compatibility": ["1.15.x"]
+}
